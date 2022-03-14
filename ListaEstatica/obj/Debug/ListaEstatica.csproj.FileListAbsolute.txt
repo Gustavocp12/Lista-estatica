@@ -1,7 +1,0 @@
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.csprojAssemblyReference.cache
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.csproj.CoreCompileInputs.cache
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.exe.config
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.exe
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\bin\Debug\ListaEstatica.pdb
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.exe
-D:\Faculdade\Estrutura de dados\ListaEstatica\ListaEstatica\obj\Debug\ListaEstatica.pdb
